@@ -74,7 +74,7 @@ header a:hover{
     font-weight:bold;
 }
 
-highlight, #boxes .current a{
+#boxes .current a{
     color:#e8491d;
     font-weight:bold;
 }
@@ -146,9 +146,8 @@ highlight, #boxes .current a{
 
 #boxes .box img{
     width:90px;
+    height:90px;
 }
-
-
 
 
 footer {
