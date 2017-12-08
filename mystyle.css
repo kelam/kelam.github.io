@@ -7,6 +7,14 @@ body {
     background-color:#FFA494;
 }
 
+h2 {
+    font-size:30px;
+    text-align:center;
+}
+
+p {
+    font-size:20px;
+}
 /*Global */
 .container {
     width:80%;
@@ -74,9 +82,16 @@ header a:hover{
     font-weight:bold;
 }
 
-#boxes .current a{
-    color:#e8491d;
+page-title {
+    font-size:100px;
+    text-align:center;
+}
+
+#boxes a{ 
+    color:#B24532;
     font-weight:bold;
+    text-decoration: none
+    
 }
 
 #boxes a:hover{
