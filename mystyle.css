@@ -216,3 +216,21 @@ footer {
 .current {
     font-weight: bold;;
 }
+
+.video-con {
+    position: relative;
+    padding-bottom: 50%;
+    padding-top: 30px; 
+    height: 0; 
+    overflow: hidden;
+}
+
+.video-con iframe,
+.video-con object,
+.video-con embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 80%;
+    height: 80%;
+}
