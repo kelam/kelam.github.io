@@ -82,9 +82,20 @@ header a:hover{
     font-weight:bold;
 }
 
-page-title {
-    font-size:100px;
+.page-title {
+    font-size:30px;
     text-align:center;
+}
+
+.link {
+    color:#b24532;
+    font-size:25px;
+    text-decoration: none;
+}
+
+.link a:hover{
+    color:#cccccc;
+    font-weight:bold;
 }
 
 #boxes a{ 
@@ -171,4 +182,42 @@ footer {
     color:#ffffff;
     background-color:#4e891d;
     text-align:center;
+}
+
+.sideright {
+	background-color: #5DC6D9;
+	font-size:105%;
+	padding: 20px;
+	width: 260px;
+	float: right;
+	border-radius: 5px;
+	margin-left:10px; margin-right:10px;
+    margin-top:-500px; margin-bottom:50px;
+}
+
+.sideright1 {
+	background-color: #5DC6D9;
+	font-size:105%;
+	padding: 20px;
+	height: 90vh;
+	width: 260px;
+	float: right;
+	border-radius: 5px;
+	margin-left:10px; margin-right:10px;
+    margin-top:-700px; margin-bottom:150px;
+}
+
+.sideright2 {
+	background-color: #5DC6D9;
+	font-size:105%;
+	padding: 20px;
+	width: 230px;
+	float: right;
+	border-radius: 5px;
+	margin-left:10px; margin-right:10px;
+    margin-top:-400px; margin-bottom:50px;
+}
+
+.current {
+    font-weight: bold;;
 }
