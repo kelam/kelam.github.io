@@ -144,6 +144,7 @@ header a:hover{
 #newsletter form {
     float:right;
     margin-top:15px;
+    margin-right:55px;
 }
 
 #newsletter form2 {
@@ -196,12 +197,11 @@ footer {
 }
 
 .sideright1 {
+    position:fixed;
+    top:203px; right:10px;
 	background-color: #5DC6D9;
 	font-size:105%;
-	padding: 20px;
-	width: 15%;
-	float: right;
-	margin: auto; margin-top: -700px;
+
 }
 
 .sideright2 {
