@@ -198,7 +198,7 @@ footer {
 
 .sideright1 {
     position:fixed;
-    top:203px; right:10px;
+    top:203px; right:0px;
 	background-color: #5DC6D9;
 	font-size:105%;
 
