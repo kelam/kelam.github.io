@@ -181,8 +181,7 @@ header a:hover{
 
 
 footer {
-    padding:9px;
-    margin-bottom:0px;
+    padding:1%;
     color:#ffffff;
     background-color:#4e891d;
     text-align:center;
@@ -248,4 +247,19 @@ footer {
 #boxes .box2 img{
     width:40%;
     height:120px;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+body {
+    margin: 0 0 100px; /* bottom = footer height */
+}
+footer {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 100px;
+    width: 100%;
 }
