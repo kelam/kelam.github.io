@@ -247,7 +247,12 @@ footer {
 }
 
 #boxes .box2 img{
-    width:40%;
+    width:50%;
+    height:120px;
+}
+
+#boxes .box3 img{
+    width:100%;
     height:120px;
 }
 
