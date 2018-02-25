@@ -255,7 +255,10 @@ footer {
     width:100%;
     height:120px;
 }
-
+#boxes .box4 img{
+    width:50%
+    height:120px;
+}
 html {
     position: relative;
     min-height: 100%;
